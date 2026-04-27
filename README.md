@@ -118,7 +118,10 @@ protik = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MProtik&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=MProtik&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=AA,A,B,C,SECRET"/>
+</div>
+
 
 </div>
 
