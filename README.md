@@ -114,13 +114,12 @@ protik = {
 
 -----
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MProtik&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=AA,A,B,C,SECRET"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MProtik&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2d9f3&icon_color=7c3aed&include_all_commits=true"/>
 </div>
 
------
 
 ## 📈 Contribution Graph
 
